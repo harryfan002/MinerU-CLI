@@ -1,6 +1,6 @@
 # MinerU CLI
 
-> [English](./readme.md) | 简体中文
+> [English](./README.md) | 简体中文
 
 把 PDF / 图片 / Word / PPT / Excel / HTML 一键解析成 **Markdown + JSON**。
 封装 [MinerU](https://mineru.net) 精准解析 API，支持表格 / 公式 / 多栏 / 扫描件。
