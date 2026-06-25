@@ -15,7 +15,7 @@ MinerU API 单任务只能 ≤ **200MB / 200 页**。本工具自动帮你绕过
 python scripts/mineru.py parse https://example.com/big.pdf --download ./out
 ```
 
-518 页的 PDF？自动**拆 → 传 → 轮询 → 合并**成一个完整的 `full.md`，你什么都不用管。
+超过200页的 PDF？自动**拆 → 传 → 轮询 → 合并**成一个完整的 `full.md`，你什么都不用管。
 本地大文件同理：`upload ./big.pdf`。**不用手动分页、不用挑切分点、不用自己拼回来。**
 
 ---
