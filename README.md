@@ -1,6 +1,6 @@
 # MinerU CLI
 
-> English | [简体中文](./README_zh-CN.md)
+> [English](./README_en-US.md) | 简体中文
 
 Turn PDF / image / Word / PPT / Excel / HTML into **Markdown + JSON** in one command.
 Wraps [MinerU](https://mineru.net)'s precise-parsing API — handles tables / formulas / multi-column / scanned docs.
