@@ -15,7 +15,7 @@ MinerU's API caps a single task at ≤ **200 MB / 200 pages**. This tool sweeps 
 python scripts/mineru.py parse https://example.com/big.pdf --download ./out
 ```
 
-A 518-page PDF? It's auto-**split → upload → poll → merged** into one complete `full.md`. You do nothing.
+A >200-page PDF? It's auto-**split → upload → poll → merged** into one complete `full.md`. You do nothing.
 Same for local files: `upload ./big.pdf`. **No manual paging, no picking split points, no stitching back.**
 
 ---
